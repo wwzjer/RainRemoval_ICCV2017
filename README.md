@@ -1,5 +1,3 @@
-README
-========
 Version 1.0, 17-Aug-2017
 
 This package contains the MATLAB implementation of "Should We Encode Rain Streaks in Video as 
