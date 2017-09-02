@@ -14,6 +14,8 @@ Deyu Meng, dymeng@mail.xjtu.edu.cn. Thank you!
 
 Reference:
 -----
+Please cite this paper if you use the code:
+
 Wei Wei, Liyuan Yi, Qi Xie, Qian Zhao, Deyu Meng, Zongben Xu, Should We Encode Rain Streaks 
 in Video as Deterministic or Stochastic? 16th International Conference on Computer Vision(ICCV), 
 Venice, Italy, Oct. 2017.
