@@ -10,7 +10,7 @@ The code has been tested with MATLAB 2016b on a Mac.
 Use of this code is free for research purposes only. Shall not be used for commercial purposes! 
 All copyrights belong to the original authors. The technology has applied for patents. If you 
 want to purchase the patents for commercial purposes, please contact the corresponding author: 
-Deyu Meng, dymeng@mail.xjtu.edu.cn. Thank you!
+Deyu Meng (dymeng@mail.xjtu.edu.cn). Thank you!
 
 Reference:
 ---------------------------------------------------------------------------------------------
@@ -46,4 +46,4 @@ in the Low-Rank Representation.  IEEE Transactions on Pattern Analysis and Machi
 
 Thanks for sharing!
 
-If you have any questions, please feel free to contact Wei Wei(wwzjer@gmail.com).
+If you have any questions, please feel free to contact Wei Wei (wwzjer@gmail.com).
