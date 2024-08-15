@@ -45,5 +45,3 @@ in the Low-Rank Representation.  IEEE Transactions on Pattern Analysis and Machi
 35(3):597–610, 2013.
 
 Thanks for sharing!
-
-If you have any questions, please feel free to contact Wei Wei (wwzjer@gmail.com).
